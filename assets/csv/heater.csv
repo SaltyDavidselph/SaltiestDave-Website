@@ -1,0 +1,81 @@
+Product Name,Manufacturer,Wattage,Tank Size Rating (gal),Titanium,Controller Included,Warranty (Years)
+BRS Titanium Heater 100W,Bulk Reef Supply,100,30,TRUE,FALSE,1
+BRS Titanium Heater 200W,Bulk Reef Supply,200,60,TRUE,FALSE,1
+BRS Titanium Heater 300W,Bulk Reef Supply,300,100,TRUE,FALSE,1
+BRS Titanium Heater 500W,Bulk Reef Supply,500,180,TRUE,FALSE,1
+Finnex HMO Titanium 100W,Finnex,100,30,TRUE,TRUE,2
+Finnex HMO Titanium 200W,Finnex,200,60,TRUE,TRUE,2
+Finnex HMO Titanium 300W,Finnex,300,100,TRUE,TRUE,2
+Finnex HMO Titanium 500W,Finnex,500,180,TRUE,TRUE,2
+Finnex TH-S 100W,Finnex,100,30,TRUE,TRUE,2
+Finnex TH-S 200W,Finnex,200,60,TRUE,TRUE,2
+Finnex TH-S 300W,Finnex,300,100,TRUE,TRUE,2
+Finnex TH-S 500W,Finnex,500,180,TRUE,TRUE,2
+Eheim Jager 50W,Eheim,50,15,FALSE,FALSE,3
+Eheim Jager 75W,Eheim,75,20,FALSE,FALSE,3
+Eheim Jager 100W,Eheim,100,30,FALSE,FALSE,3
+Eheim Jager 150W,Eheim,150,45,FALSE,FALSE,3
+Eheim Jager 200W,Eheim,200,60,FALSE,FALSE,3
+Eheim Jager 250W,Eheim,250,75,FALSE,FALSE,3
+Eheim Jager 300W,Eheim,300,100,FALSE,FALSE,3
+Eheim Jager 400W,Eheim,400,150,FALSE,FALSE,3
+Fluval E 50W,Fluval,50,15,FALSE,FALSE,3
+Fluval E 100W,Fluval,100,30,FALSE,FALSE,3
+Fluval E 200W,Fluval,200,60,FALSE,FALSE,3
+Fluval E 300W,Fluval,300,100,FALSE,FALSE,3
+Fluval M 50W,Fluval,50,15,FALSE,FALSE,3
+Fluval M 100W,Fluval,100,30,FALSE,FALSE,3
+Fluval M 200W,Fluval,200,60,FALSE,FALSE,3
+Fluval M 300W,Fluval,300,100,FALSE,FALSE,3
+Cobalt Neo-Therm 25W,Cobalt Aquatics,25,10,FALSE,FALSE,3
+Cobalt Neo-Therm 50W,Cobalt Aquatics,50,15,FALSE,FALSE,3
+Cobalt Neo-Therm 75W,Cobalt Aquatics,75,20,FALSE,FALSE,3
+Cobalt Neo-Therm 100W,Cobalt Aquatics,100,30,FALSE,FALSE,3
+Cobalt Neo-Therm 150W,Cobalt Aquatics,150,45,FALSE,FALSE,3
+Cobalt Neo-Therm 200W,Cobalt Aquatics,200,60,FALSE,FALSE,3
+Cobalt Neo-Therm 300W,Cobalt Aquatics,300,100,FALSE,FALSE,3
+Aquael Ultra Heater 25W,Aquael,25,10,FALSE,FALSE,2
+Aquael Ultra Heater 50W,Aquael,50,15,FALSE,FALSE,2
+Aquael Ultra Heater 100W,Aquael,100,30,FALSE,FALSE,2
+Aquael Ultra Heater 150W,Aquael,150,45,FALSE,FALSE,2
+Aquael Ultra Heater 200W,Aquael,200,60,FALSE,FALSE,2
+Aquael Ultra Heater 250W,Aquael,250,75,FALSE,FALSE,2
+Aquael Ultra Heater 300W,Aquael,300,100,FALSE,FALSE,2
+Aquael Ultra Heater 500W,Aquael,500,180,FALSE,FALSE,2
+Sicce Scuba 50W,Sicce,50,15,FALSE,FALSE,3
+Sicce Scuba 100W,Sicce,100,30,FALSE,FALSE,3
+Sicce Scuba 150W,Sicce,150,45,FALSE,FALSE,3
+Sicce Scuba 200W,Sicce,200,60,FALSE,FALSE,3
+Sicce Scuba 250W,Sicce,250,75,FALSE,FALSE,3
+Sicce Scuba 300W,Sicce,300,100,FALSE,FALSE,3
+Helio PTC Smart Heater 100W,Innovative Marine,100,30,TRUE,TRUE,2
+Helio PTC Smart Heater 200W,Innovative Marine,200,60,TRUE,TRUE,2
+Helio PTC Smart Heater 300W,Innovative Marine,300,100,TRUE,TRUE,2
+Helio PTC Smart Heater 400W,Innovative Marine,400,140,TRUE,TRUE,2
+Helio PTC Smart Heater 600W,Innovative Marine,600,220,TRUE,TRUE,2
+Schego Titanium 100W,Schego,100,30,TRUE,FALSE,2
+Schego Titanium 200W,Schego,200,60,TRUE,FALSE,2
+Schego Titanium 300W,Schego,300,100,TRUE,FALSE,2
+Schego Titanium 400W,Schego,400,140,TRUE,FALSE,2
+Schego Titanium 600W,Schego,600,220,TRUE,FALSE,2
+Schego Titanium 1000W,Schego,1000,350,TRUE,FALSE,2
+Helio PTC Smart Heater 800W,Innovative Marine,800,300,TRUE,TRUE,2
+Helio PTC Smart Heater 1000W,Innovative Marine,1000,350,TRUE,TRUE,2
+Finnex Deluxe Titanium 100W,Finnex,100,30,TRUE,TRUE,2
+Finnex Deluxe Titanium 200W,Finnex,200,60,TRUE,TRUE,2
+Finnex Deluxe Titanium 300W,Finnex,300,100,TRUE,TRUE,2
+Finnex Deluxe Titanium 500W,Finnex,500,180,TRUE,TRUE,2
+Finnex Deluxe Titanium 800W,Finnex,800,300,TRUE,TRUE,2
+Finnex Deluxe Titanium 1000W,Finnex,1000,350,TRUE,TRUE,2
+JBJ True Temp 100W,JBJ,100,30,FALSE,FALSE,1
+JBJ True Temp 200W,JBJ,200,60,FALSE,FALSE,1
+JBJ True Temp 300W,JBJ,300,100,FALSE,FALSE,1
+JBJ True Temp 500W,JBJ,500,180,FALSE,FALSE,1
+Hygger Quartz 50W,Hygger,50,15,FALSE,FALSE,1
+Hygger Quartz 100W,Hygger,100,30,FALSE,FALSE,1
+Hygger Quartz 200W,Hygger,200,60,FALSE,FALSE,1
+Hygger Quartz 300W,Hygger,300,100,FALSE,FALSE,1
+Hygger Titanium 100W,Hygger,100,30,TRUE,TRUE,1
+Hygger Titanium 200W,Hygger,200,60,TRUE,TRUE,1
+Hygger Titanium 300W,Hygger,300,100,TRUE,TRUE,1
+Hygger Titanium 500W,Hygger,500,180,TRUE,TRUE,1

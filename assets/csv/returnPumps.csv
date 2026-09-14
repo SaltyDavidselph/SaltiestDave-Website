@@ -1,0 +1,61 @@
+Product Name,Manufacturer,Max Flow Rate (GPH),Power Consumption (W),Pump Type,Max Head Height (ft),Controllable,Control Method,Warranty (Years)
+Vectra S2,Ecotech Marine,1400,55,DC,21.5,TRUE,App,1
+Vectra M2,Ecotech Marine,2000,80,DC,21.5,TRUE,App,1
+Vectra L2,Ecotech Marine,3100,130,DC,21.5,TRUE,App,1
+Sicce SDC 3.0,Sicce,800,35,DC,13,TRUE,App,5
+Sicce SDC 6.0,Sicce,1450,55,DC,13,TRUE,App,5
+Sicce SDC 7.0,Sicce,1900,65,DC,13,TRUE,App,5
+Sicce SDC 9.0,Sicce,2500,95,DC,16,TRUE,App,5
+Syncra Silent 1.5,Sicce,357,23,AC,6.2,FALSE,Manual,3
+Syncra Silent 2.0,Sicce,568,32,AC,6.6,FALSE,Manual,3
+Syncra Silent 3.0,Sicce,714,45,AC,9.8,FALSE,Manual,3
+Syncra Silent 4.0,Sicce,951,55,AC,12.5,FALSE,Manual,3
+Syncra Silent 5.0,Sicce,1321,105,AC,12.8,FALSE,Manual,3
+VarioS 2,Reef Octopus,792,25,DC,13,TRUE,Controller,2
+VarioS 4,Reef Octopus,1050,40,DC,13,TRUE,Controller,2
+VarioS 6,Reef Octopus,1720,70,DC,16,TRUE,Controller,2
+VarioS 8,Reef Octopus,2700,95,DC,19,TRUE,Controller,2
+VarioS 10,Reef Octopus,3170,105,DC,20,TRUE,Controller,2
+Abyzz A100,Abyzz,3400,200,DC,26,TRUE,Controller,10
+Abyzz A200,Abyzz,4600,300,DC,32,TRUE,Controller,10
+Abyzz A400,Abyzz,6300,400,DC,39,TRUE,Controller,10
+AquaBee UP 2000,AquaBee,528,38,AC,8,FALSE,Manual,2
+AquaBee UP 3000,AquaBee,792,55,AC,10,FALSE,Manual,2
+AquaBee UP 5000,AquaBee,1320,85,AC,13,FALSE,Manual,2
+Red Sea ReefRun 5500,Red Sea,1450,50,DC,13,TRUE,App,2
+Red Sea ReefRun 7000,Red Sea,1850,65,DC,16,TRUE,App,2
+Red Sea ReefRun 9000,Red Sea,2375,95,DC,19,TRUE,App,2
+Red Sea ReefRun 12000,Red Sea,3170,130,DC,23,TRUE,App,2
+Neptune COR-15,Neptune Systems,1500,90,DC,15,TRUE,Controller,2
+Neptune COR-20,Neptune Systems,2000,95,DC,20,TRUE,Controller,2
+Tunze Silence 1073.020,Tunze,634,35,AC,8,FALSE,Manual,2
+Tunze Silence 1073.040,Tunze,1057,43,AC,11,FALSE,Manual,2
+Tunze Silence 1073.060,Tunze,1585,65,AC,14,FALSE,Manual,2
+Tunze Silence Pro 1073.11,Tunze,2900,95,DC,18,TRUE,Controller,2
+Tunze Silence Pro 1073.15,Tunze,3960,130,DC,21,TRUE,Controller,2
+Jebao DCP-2500,Jebao,660,25,DC,10,TRUE,Controller,1
+Jebao DCP-4000,Jebao,1050,35,DC,13,TRUE,Controller,1
+Jebao DCP-6500,Jebao,1715,55,DC,16,TRUE,Controller,1
+Jebao DCP-8000,Jebao,2110,65,DC,18,TRUE,Controller,1
+Jebao DCP-10000,Jebao,2640,85,DC,20,TRUE,Controller,1
+Jebao DCP-15000,Jebao,3960,120,DC,23,TRUE,Controller,1
+D-D DC 3000,D-D,790,28,DC,11,TRUE,Controller,2
+D-D DC 5000,D-D,1320,42,DC,13,TRUE,Controller,2
+D-D DC 7500,D-D,1980,65,DC,16,TRUE,Controller,2
+D-D DC 10000,D-D,2640,85,DC,20,TRUE,Controller,2
+Hydros DC 3000,CoralVue,790,30,DC,11,TRUE,App,2
+Hydros DC 5000,CoralVue,1320,45,DC,13,TRUE,App,2
+Hydros DC 8000,CoralVue,2110,70,DC,18,TRUE,App,2
+Hydros DC 12000,CoralVue,3170,120,DC,23,TRUE,App,2
+MightyJet 326 GPH,Innovative Marine,326,20,DC,7,TRUE,Controller,2
+MightyJet 538 GPH,Innovative Marine,538,25,DC,9,TRUE,Controller,2
+MightyJet XL 757 GPH,Innovative Marine,757,35,DC,10,TRUE,Controller,2
+MightyJet XL 1070 GPH,Innovative Marine,1070,50,DC,12,TRUE,Controller,2
+EFlux DC Flow Return Pump 1050,Current USA,1050,35,DC,13,TRUE,Controller,1
+EFlux DC Flow Return Pump 1900,Current USA,1900,60,DC,16,TRUE,Controller,1
+EFlux DC Flow Return Pump 3170,Current USA,3170,95,DC,20,TRUE,Controller,1
+Rio Plus 1400,Lifegard Aquatics,420,14,AC,6,FALSE,Manual,1
+Rio Plus 2100,Lifegard Aquatics,692,24,AC,8,FALSE,Manual,1
+Rio Plus 3100,Lifegard Aquatics,900,38,AC,10,FALSE,Manual,1
+Rio Plus 4300,Lifegard Aquatics,1110,55,AC,12,FALSE,Manual,1
+Rio Plus 6100,Lifegard Aquatics,1590,75,AC,14,FALSE,Manual,1

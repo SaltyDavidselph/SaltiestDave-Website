@@ -1,0 +1,41 @@
+Product Name,Manufacturer,Wattage,Max Flow Rate (GPH),Chamber Length (in),Inlet Size (in),Bulb Included,Quartz Sleeve,Warranty (Years)
+Turbo-Twist 3X 9W,Coralife,9,125,12,0.5,TRUE,TRUE,1
+Turbo-Twist 3X 18W,Coralife,18,250,18,0.5,TRUE,TRUE,1
+Turbo-Twist 3X 36W,Coralife,36,500,24,0.75,TRUE,TRUE,1
+Turbo-Twist 3X 48W,Coralife,48,700,36,0.75,TRUE,TRUE,1
+Aqua UV Classic 15W,Aqua UV,15,700,20,0.75,TRUE,TRUE,1
+Aqua UV Classic 25W,Aqua UV,25,1200,30,0.75,TRUE,TRUE,1
+Aqua UV Classic 40W,Aqua UV,40,2000,36,1.0,TRUE,TRUE,1
+Aqua UV Classic 57W,Aqua UV,57,3200,36,1.5,TRUE,TRUE,1
+Aqua UV Classic 80W,Aqua UV,80,4000,40,2.0,TRUE,TRUE,1
+Aqua UV Classic 114W,Aqua UV,114,5200,40,2.0,TRUE,TRUE,1
+Aqua UV Advantage 15W,Aqua UV,15,700,20,0.75,TRUE,TRUE,1
+Aqua UV Advantage 25W,Aqua UV,25,1200,30,0.75,TRUE,TRUE,1
+Aqua UV Advantage 40W,Aqua UV,40,2000,36,1.0,TRUE,TRUE,1
+Aqua UV Advantage 57W,Aqua UV,57,3200,36,1.5,TRUE,TRUE,1
+Pentair Smart UV 25W,Pentair,25,1200,30,0.75,TRUE,TRUE,2
+Pentair Smart UV 40W,Pentair,40,2000,36,1.0,TRUE,TRUE,2
+Pentair Smart UV 80W,Pentair,80,4000,40,2.0,TRUE,TRUE,2
+Pentair Smart UV 120W,Pentair,120,6000,40,2.0,TRUE,TRUE,2
+Lifegard Pro-MAX 25W,Lifegard Aquatics,25,1200,30,0.75,TRUE,TRUE,1
+Lifegard Pro-MAX 40W,Lifegard Aquatics,40,2000,36,1.0,TRUE,TRUE,1
+Lifegard Pro-MAX 55W,Lifegard Aquatics,55,2800,36,1.5,TRUE,TRUE,1
+Lifegard Pro-MAX 90W,Lifegard Aquatics,90,4500,40,2.0,TRUE,TRUE,1
+Lifegard Pro-MAX 120W,Lifegard Aquatics,120,6000,40,2.0,TRUE,TRUE,1
+Emperor Aquatics Smart UV 25W,Emperor Aquatics,25,1200,30,0.75,TRUE,TRUE,2
+Emperor Aquatics Smart UV 40W,Emperor Aquatics,40,2000,36,1.0,TRUE,TRUE,2
+Emperor Aquatics Smart UV 65W,Emperor Aquatics,65,3200,36,1.5,TRUE,TRUE,2
+Emperor Aquatics Smart UV 80W,Emperor Aquatics,80,4000,40,2.0,TRUE,TRUE,2
+Emperor Aquatics Smart UV 120W,Emperor Aquatics,120,6000,40,2.0,TRUE,TRUE,2
+Vecton V2 300,Evolution Aqua,15,800,21,0.75,TRUE,TRUE,2
+Vecton V2 400,Evolution Aqua,25,1200,30,0.75,TRUE,TRUE,2
+Vecton V2 600,Evolution Aqua,30,1800,36,1.0,TRUE,TRUE,2
+Vecton V2 850,Evolution Aqua,55,2800,36,1.5,TRUE,TRUE,2
+Green Killing Machine 9W,AA Aquarium,9,120,12,0.5,TRUE,FALSE,1
+Green Killing Machine 24W,AA Aquarium,24,500,24,0.75,TRUE,FALSE,1
+Green Killing Machine 36W,AA Aquarium,36,900,24,0.75,TRUE,FALSE,1
+AquaShield UV 15W,Aquatop,15,700,20,0.75,TRUE,TRUE,1
+AquaShield UV 25W,Aquatop,25,1200,30,0.75,TRUE,TRUE,1
+AquaShield UV 36W,Aquatop,36,1800,36,1.0,TRUE,TRUE,1
+AquaShield UV 55W,Aquatop,55,2800,36,1.5,TRUE,TRUE,1
+AquaShield UV 80W,Aquatop,80,4000,40,2.0,TRUE,TRUE,1

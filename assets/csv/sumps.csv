@@ -1,0 +1,81 @@
+Product Name,Manufacturer,Water Volume (gal),Length (in),Width (in),Height (in),Skimmer Chamber Size,Refugium Chamber,Filter Sock Size,ATO Reservoir Included
+Trigger Platinum 20,Trigger Systems,20,20,15,15,10,TRUE,4,FALSE
+Trigger Platinum 26,Trigger Systems,26,26,15,15,12,TRUE,4,TRUE
+Trigger Platinum 34,Trigger Systems,34,34,15,15,14,TRUE,7,TRUE
+Trigger Platinum 39,Trigger Systems,39,39,15,15,16,TRUE,7,TRUE
+Trigger Platinum 44,Trigger Systems,44,44,15,15,18,TRUE,7,TRUE
+Trigger Sapphire 20,Trigger Systems,20,20,15,15,10,FALSE,4,FALSE
+Trigger Sapphire 26,Trigger Systems,26,26,15,15,12,FALSE,4,FALSE
+Trigger Sapphire 34,Trigger Systems,34,34,15,15,14,FALSE,7,FALSE
+Trigger Sapphire 39,Trigger Systems,39,39,15,15,16,FALSE,7,FALSE
+Trigger Sapphire 44,Trigger Systems,44,44,15,15,18,FALSE,7,FALSE
+Fiji Cube Advanced Reef Sump 20,Fiji Cube,20,20,14,16,10,TRUE,4,FALSE
+Fiji Cube Advanced Reef Sump 24,Fiji Cube,24,24,14,16,12,TRUE,4,FALSE
+Fiji Cube Advanced Reef Sump 30,Fiji Cube,30,30,14,16,14,TRUE,7,FALSE
+Fiji Cube Advanced Reef Sump 36,Fiji Cube,36,36,14,16,16,TRUE,7,FALSE
+Fiji Cube Advanced Reef Sump 44,Fiji Cube,44,44,14,16,18,TRUE,7,FALSE
+Fiji Cube Elite Reef Sump 24,Fiji Cube,24,24,15,16,12,TRUE,7,TRUE
+Fiji Cube Elite Reef Sump 30,Fiji Cube,30,30,15,16,14,TRUE,7,TRUE
+Fiji Cube Elite Reef Sump 36,Fiji Cube,36,36,15,16,16,TRUE,7,TRUE
+Fiji Cube Elite Reef Sump 44,Fiji Cube,44,44,15,16,18,TRUE,7,TRUE
+Fiji Cube Elite Reef Sump 48,Fiji Cube,48,48,15,16,20,TRUE,7,TRUE
+Pro Series 20 Sump,Aqueon,20,20,15,16,10,FALSE,4,FALSE
+Pro Series 30 Sump,Aqueon,30,30,15,16,14,FALSE,4,FALSE
+Pro Series 40 Sump,Aqueon,40,36,15,16,16,FALSE,7,FALSE
+Pro Series 50 Sump,Aqueon,50,48,15,16,18,FALSE,7,FALSE
+Ruby Cube 20 Sump,Trigger Systems,20,20,15,15,10,TRUE,4,FALSE
+Ruby Cube 26 Sump,Trigger Systems,26,26,15,15,12,TRUE,4,FALSE
+Ruby Cube 30 Sump,Trigger Systems,30,30,15,15,14,TRUE,7,FALSE
+Ruby Cube 36 Sump,Trigger Systems,36,36,15,15,16,TRUE,7,FALSE
+Ruby Cube 44 Sump,Trigger Systems,44,44,15,15,18,TRUE,7,FALSE
+Crystal 20 Sump,Bashsea,20,20,15,16,10,TRUE,4,FALSE
+Crystal 30 Sump,Bashsea,30,30,15,16,14,TRUE,7,FALSE
+Crystal 36 Sump,Bashsea,36,36,15,16,16,TRUE,7,FALSE
+Crystal 48 Sump,Bashsea,48,48,15,16,20,TRUE,7,FALSE
+Smart Series 20 Sump,Eshopps,20,20,14,16,10,TRUE,4,FALSE
+Smart Series 24 Sump,Eshopps,24,24,14,16,12,TRUE,4,FALSE
+Smart Series 30 Sump,Eshopps,30,30,14,16,14,TRUE,7,FALSE
+Smart Series 36 Sump,Eshopps,36,36,14,16,16,TRUE,7,FALSE
+Smart Series 44 Sump,Eshopps,44,44,14,16,18,TRUE,7,FALSE
+ADV-200 Reef Sump,Eshopps,50,36,18,16,18,TRUE,7,TRUE
+ADV-300 Reef Sump,Eshopps,75,48,18,16,20,TRUE,7,TRUE
+R-24 Reef Sump,Red Sea,24,24,15,16,12,TRUE,4,FALSE
+R-34 Reef Sump,Red Sea,34,34,15,16,14,TRUE,7,FALSE
+R-44 Reef Sump,Red Sea,44,44,15,16,18,TRUE,7,FALSE
+REEFER G2 Sump 170,Red Sea,20,22,15,15,10,FALSE,4,TRUE
+REEFER G2 Sump 250,Red Sea,28,28,15,15,12,FALSE,4,TRUE
+REEFER G2 Sump 350,Red Sea,38,35,15,15,14,FALSE,7,TRUE
+REEFER G2 Sump 525,Red Sea,50,45,18,15,18,FALSE,7,TRUE
+REEFER G2 Sump 750,Red Sea,70,55,18,15,20,FALSE,7,TRUE
+CL-26 Gen 3 Sump,Clarisea,26,26,15,16,12,TRUE,4,FALSE
+CL-34 Gen 3 Sump,Clarisea,34,34,15,16,14,TRUE,7,FALSE
+CL-44 Gen 3 Sump,Clarisea,44,44,15,16,18,TRUE,7,FALSE
+ARID Reef Sump 24,Pax Bellum,24,24,15,16,12,TRUE,4,FALSE
+ARID Reef Sump 36,Pax Bellum,36,36,15,16,16,TRUE,7,FALSE
+ARID Reef Sump 48,Pax Bellum,48,48,15,16,20,TRUE,7,FALSE
+Pro Reef Sump 200,AquaReady,50,36,18,16,18,TRUE,7,TRUE
+Pro Reef Sump 300,AquaReady,75,48,18,16,20,TRUE,7,TRUE
+Elite Reef Sump 36,IceCap,36,36,15,16,16,TRUE,7,FALSE
+Elite Reef Sump 44,IceCap,44,44,15,16,18,TRUE,7,FALSE
+Elite Reef Sump 48,IceCap,48,48,15,16,20,TRUE,7,FALSE
+Elite Reef Sump 60,IceCap,60,60,18,16,24,TRUE,7,FALSE
+Pro Reef Sump 20,Innovative Marine,20,20,15,16,10,TRUE,4,FALSE
+Pro Reef Sump 25,Innovative Marine,25,24,15,16,12,TRUE,4,FALSE
+Pro Reef Sump 30,Innovative Marine,30,30,15,16,14,TRUE,7,FALSE
+Pro Reef Sump 40,Innovative Marine,40,36,15,16,16,TRUE,7,FALSE
+Pro Reef Sump 50,Innovative Marine,50,48,15,16,18,TRUE,7,FALSE
+Dreambox 100,Bashsea,26,24,18,16,12,TRUE,7,TRUE
+Dreambox 125,Bashsea,34,30,18,16,14,TRUE,7,TRUE
+Dreambox 150,Bashsea,44,36,18,16,16,TRUE,7,TRUE
+Dreambox 175,Bashsea,55,48,18,16,18,TRUE,7,TRUE
+Dreambox 200,Bashsea,70,60,18,16,24,TRUE,7,TRUE
+REF-24 Reef Sump,Nyos,24,24,15,16,12,TRUE,4,FALSE
+REF-30 Reef Sump,Nyos,30,30,15,16,14,TRUE,7,FALSE
+REF-36 Reef Sump,Nyos,36,36,15,16,16,TRUE,7,FALSE
+REF-48 Reef Sump,Nyos,48,48,15,16,20,TRUE,7,FALSE
+Reef Sump RS-26,Pro Clear Aquatic Systems,26,26,15,16,12,TRUE,4,FALSE
+Reef Sump RS-34,Pro Clear Aquatic Systems,34,34,15,16,14,TRUE,7,FALSE
+Reef Sump RS-44,Pro Clear Aquatic Systems,44,44,15,16,18,TRUE,7,FALSE
+Reef Sump RS-60,Pro Clear Aquatic Systems,60,60,18,16,24,TRUE,7,FALSE
+RSF-200 Roller Sump,Pro Clear Aquatic Systems,50,36,18,16,18,TRUE,7,TRUE
+RSF-300 Roller Sump,Pro Clear Aquatic Systems,75,48,18,16,20,TRUE,7,TRUE

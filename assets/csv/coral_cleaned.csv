@@ -1,0 +1,258 @@
+Common Name,Scientific Name,Coral Type,Family,Difficulty,Lighting,Water Flow,Aggressiveness,Minimum Tank Size (gal),Placement,Growth Rate,Maximum Colony Size (in),Reef Safe,Photosynthetic
+Green Star Polyps,Pachyclavularia violacea,Soft Coral,Briareidae,Easy,Moderate,Moderate,Moderate,10,Any,Fast,24,Yes,Yes
+Pulsing Xenia,Xenia elongata,Soft Coral,Xeniidae,Easy,Moderate,Moderate,Low,10,Middle,Fast,24,Yes,Yes
+Kenya Tree Coral,Capnella sp.,Soft Coral,Nephtheidae,Easy,Moderate,Moderate,Low,20,Middle,Fast,18,Yes,Yes
+Toadstool Leather Coral,Sarcophyton sp.,Soft Coral,Alcyoniidae,Easy,Moderate,Moderate,Low,20,Middle,Moderate,24,Yes,Yes
+Finger Leather Coral,Sinularia sp.,Soft Coral,Alcyoniidae,Easy,Moderate,Moderate,Low,20,Middle,Moderate,24,Yes,Yes
+Colt Coral,Cladiella sp.,Soft Coral,Alcyoniidae,Easy,Moderate,Moderate,Low,20,Middle,Moderate,18,Yes,Yes
+Devils Hand Leather,Lobophytum sp.,Soft Coral,Alcyoniidae,Easy,Moderate,Moderate,Low,20,Middle,Moderate,24,Yes,Yes
+Zoanthid Colony,Zoanthus sp.,Soft Coral,Zoanthidae,Easy,Moderate,Moderate,Low,10,Any,Fast,12,Yes,Yes
+Button Polyps,Palythoa sp.,Soft Coral,Zoanthidae,Easy,Moderate,Moderate,Moderate,10,Any,Fast,12,Yes,Yes
+Ricordea Mushroom,Ricordea florida,Corallimorph,Ricordeidae,Easy,Moderate,Low,Low,10,Lower,Moderate,8,Yes,Yes
+Hairy Mushroom,Rhodactis sp.,Corallimorph,Discosomatidae,Easy,Low,Low,Low,10,Lower,Moderate,12,Yes,Yes
+Red Mushroom,Discosoma sp.,Corallimorph,Discosomatidae,Easy,Low,Low,Low,10,Lower,Fast,12,Yes,Yes
+Hammer Coral,Euphyllia ancora,LPS,Euphylliidae,Moderate,Moderate,Moderate,High,30,Middle,Moderate,24,Yes,Yes
+Torch Coral,Euphyllia glabrescens,LPS,Euphylliidae,Moderate,Moderate,Moderate,High,30,Middle,Moderate,24,Yes,Yes
+Frogspawn Coral,Euphyllia divisa,LPS,Euphylliidae,Moderate,Moderate,Moderate,High,30,Middle,Moderate,24,Yes,Yes
+Candy Cane Coral,Caulastrea furcata,LPS,Merulinidae,Easy,Moderate,Low,Low,20,Middle,Moderate,12,Yes,Yes
+Duncan Coral,Duncanopsammia axifuga,LPS,Dendrophylliidae,Easy,Moderate,Moderate,Low,20,Middle,Moderate,18,Yes,Yes
+Blastomussa Coral,Blastomussa wellsi,LPS,Merulinidae,Moderate,Low,Low,Low,20,Lower,Slow,10,Yes,Yes
+Acan Coral,Micromussa lordhowensis,LPS,Lobophylliidae,Moderate,Moderate,Low,Moderate,20,Lower,Moderate,12,Yes,Yes
+Favia Brain Coral,Favia sp.,LPS,Merulinidae,Moderate,Moderate,Moderate,Moderate,30,Middle,Slow,18,Yes,Yes
+Lobophyllia Brain Coral,Lobophyllia hemprichii,LPS,Lobophylliidae,Moderate,Moderate,Low,Moderate,30,Lower,Slow,18,Yes,Yes
+Open Brain Coral,Trachyphyllia geoffroyi,LPS,Merulinidae,Moderate,Low,Low,Moderate,30,Sand Bed,Slow,12,Yes,Yes
+Scolymia Coral,Scolymia australis,LPS,Mussidae,Moderate,Low,Low,Low,20,Sand Bed,Slow,8,Yes,Yes
+Elegance Coral,Catalaphyllia jardinei,LPS,Euphylliidae,Moderate,Moderate,Low,Moderate,50,Sand Bed,Moderate,24,Yes,Yes
+Plate Coral,Fungia fungites,LPS,Fungiidae,Easy,Moderate,Low,Low,20,Sand Bed,Moderate,10,Yes,Yes
+Fox Coral,Nemenzophyllia turbida,LPS,Euphylliidae,Moderate,Low,Low,Low,30,Lower,Slow,12,Yes,Yes
+Chalice Coral,Echinophyllia aspera,LPS,Lobophylliidae,Moderate,Low,Low,Moderate,30,Lower,Moderate,18,Yes,Yes
+Hollywood Stunner Chalice,Echinopora lamellosa,LPS,Merulinidae,Easy,Moderate,Moderate,High,30,Lower,Fast,24,Yes,Yes
+Pagoda Cup Coral,Turbinaria reniformis,LPS,Dendrophylliidae,Moderate,Moderate,Moderate,Low,30,Middle,Moderate,24,Yes,Yes
+Cup Coral,Turbinaria peltata,LPS,Dendrophylliidae,Moderate,Moderate,Moderate,Low,30,Middle,Moderate,24,Yes,Yes
+Birdsnest Coral,Seriatopora hystrix,SPS,Pocilloporidae,Moderate,High,High,Low,30,Upper,Fast,18,Yes,Yes
+Pink Birdsnest Coral,Seriatopora caliendrum,SPS,Pocilloporidae,Moderate,High,High,Low,30,Upper,Fast,18,Yes,Yes
+Stylophora Coral,Stylophora pistillata,SPS,Pocilloporidae,Moderate,High,High,Low,30,Upper,Moderate,18,Yes,Yes
+Pocillopora Coral,Pocillopora damicornis,SPS,Pocilloporidae,Moderate,High,High,Low,30,Upper,Fast,18,Yes,Yes
+Green Slimer Acropora,Acropora yongei,SPS,Acroporidae,Difficult,High,High,Low,50,Upper,Fast,24,Yes,Yes
+Staghorn Acropora,Acropora formosa,SPS,Acroporidae,Difficult,High,High,Low,50,Upper,Fast,36,Yes,Yes
+Montipora Digitata,Montipora digitata,SPS,Acroporidae,Moderate,High,High,Low,30,Upper,Fast,24,Yes,Yes
+Montipora Capricornis,Montipora capricornis,SPS,Acroporidae,Moderate,High,High,Low,30,Upper,Fast,36,Yes,Yes
+Encrusting Montipora,Montipora sp.,SPS,Acroporidae,Moderate,High,High,Low,30,Upper,Moderate,24,Yes,Yes
+Hydnophora Coral,Hydnophora rigida,SPS,Merulinidae,Moderate,High,High,High,50,Upper,Fast,24,Yes,Yes
+Blue Tip Acropora,Acropora tenuis,SPS,Acroporidae,Difficult,High,High,Low,50,Upper,Fast,24,Yes,Yes
+Millepora Acropora,Acropora millepora,SPS,Acroporidae,Difficult,High,High,Low,50,Upper,Fast,24,Yes,Yes
+Bottlebrush Acropora,Acropora echinata,SPS,Acroporidae,Difficult,High,High,Low,50,Upper,Moderate,18,Yes,Yes
+Table Acropora,Acropora hyacinthus,SPS,Acroporidae,Difficult,High,High,Low,75,Upper,Fast,36,Yes,Yes
+Smooth Skin Acropora,Acropora lokani,SPS,Acroporidae,Difficult,High,High,Low,50,Upper,Moderate,24,Yes,Yes
+Branching Cyphastrea,Cyphastrea japonica,SPS,Merulinidae,Easy,Moderate,Moderate,Low,20,Lower,Moderate,12,Yes,Yes
+Meteor Shower Cyphastrea,Cyphastrea ocellina,SPS,Merulinidae,Easy,Moderate,Moderate,Low,20,Lower,Moderate,18,Yes,Yes
+Leptastrea Coral,Leptastrea purpurea,SPS,Leptastreidae,Easy,Moderate,Moderate,Low,20,Lower,Slow,12,Yes,Yes
+Leptoseris Coral,Leptoseris mycetoseroides,SPS,Agariciidae,Moderate,Low,Low,Low,20,Lower,Slow,18,Yes,Yes
+Pavona Cactus Coral,Pavona cactus,Agariciidae,SPS,Moderate,Moderate,Moderate,Low,30,Middle,Moderate,24,Yes,Yes
+Pavona Maldivensis,Pavona maldivensis,Agariciidae,SPS,Moderate,Moderate,Moderate,Low,30,Middle,Moderate,24,Yes,Yes
+Orange Setosa,Montipora setosa,SPS,Acroporidae,Moderate,High,High,Low,30,Upper,Moderate,18,Yes,Yes
+Purple Haze Montipora,Montipora danae,SPS,Acroporidae,Moderate,High,High,Low,30,Upper,Moderate,18,Yes,Yes
+Sun Coral,Tubastraea coccinea,LPS,Dendrophylliidae,Difficult,Low,Moderate,Low,30,Lower,Moderate,12,Yes,No
+Black Sun Coral,Tubastraea micranthus,LPS,Dendrophylliidae,Difficult,Low,Moderate,Low,30,Lower,Moderate,18,Yes,No
+Dendrophyllia Coral,Dendrophyllia arbuscula,LPS,Dendrophylliidae,Difficult,Low,Moderate,Low,30,Lower,Moderate,18,Yes,No
+Orange Ball Coral,Scleronephthya sp.,Soft Coral,Nephtheidae,Difficult,Low,Moderate,Low,30,Lower,Moderate,12,Yes,No
+Carnation Coral,Dendronephthya sp.,Soft Coral,Nephtheidae,Difficult,Low,Moderate,Low,30,Lower,Moderate,24,Yes,No
+Photosynthetic Gorgonian,Pterogorgia anceps,Gorgonian,Gorgoniidae,Moderate,Moderate,Moderate,Low,30,Middle,Moderate,36,Yes,Yes
+Purple Frilly Gorgonian,Pseudopterogorgia bipinnata,Gorgonian,Gorgoniidae,Moderate,Moderate,Moderate,Low,30,Middle,Moderate,36,Yes,Yes
+Purple Ribbon Gorgonian,Eunicea flexuosa,Gorgonian,Plexauridae,Moderate,Moderate,Moderate,Low,30,Middle,Moderate,48,Yes,Yes
+Sea Rod Gorgonian,Pseudoplexaura porosa,Gorgonian,Plexauridae,Moderate,Moderate,Moderate,Low,30,Middle,Moderate,48,Yes,Yes
+Corky Sea Finger,Briareum asbestinum,Gorgonian,Briareidae,Easy,Moderate,Moderate,Low,20,Middle,Fast,36,Yes,Yes
+Red Tree Gorgonian,Diodogorgia nodulifera,Gorgonian,Gorgoniidae,Difficult,Low,Moderate,Low,30,Middle,Moderate,36,Yes,No
+Yellow Finger Gorgonian,Diodogorgia sp.,Gorgonian,Gorgoniidae,Difficult,Low,Moderate,Low,30,Middle,Moderate,36,Yes,No
+Maxima Clam,Tridacna maxima,Clam,Cardiidae,Moderate,High,Moderate,Low,30,Sand Bed,Slow,14,Yes,Yes
+Crocea Clam,Tridacna crocea,Clam,Cardiidae,Moderate,High,Moderate,Low,30,Rockwork,Slow,8,Yes,Yes
+Derasa Clam,Tridacna derasa,Clam,Cardiidae,Easy,Moderate,Moderate,Low,55,Sand Bed,Moderate,24,Yes,Yes
+Squamosa Clam,Tridacna squamosa,Clam,Cardiidae,Moderate,Moderate,Moderate,Low,75,Sand Bed,Moderate,18,Yes,Yes
+Hippopus Clam,Hippopus hippopus,Clam,Cardiidae,Moderate,Moderate,Moderate,Low,75,Sand Bed,Slow,20,Yes,Yes
+Bubble Tip Anemone,Entacmaea quadricolor,Anemone,Actiniidae,Moderate,Moderate,Moderate,Low,30,Rockwork,Moderate,12,Yes,Yes
+Long Tentacle Anemone,Macrodactyla doreensis,Anemone,Actiniidae,Moderate,Moderate,Moderate,Low,50,Sand Bed,Moderate,20,Yes,Yes
+Sebae Anemone,Heteractis crispa,Anemone,Stichodactylidae,Difficult,High,Moderate,Low,75,Sand Bed,Moderate,24,Yes,Yes
+Magnificent Sea Anemone,Heteractis magnifica,Anemone,Stichodactylidae,Difficult,High,High,Low,100,Upper,Moderate,36,Yes,Yes
+Carpet Anemone,Stichodactyla haddoni,Anemone,Stichodactylidae,Difficult,High,Moderate,Low,100,Sand Bed,Moderate,36,Yes,Yes
+Mini Maxi Carpet Anemone,Stichodactyla tapetum,Anemone,Stichodactylidae,Moderate,Moderate,Moderate,Low,20,Rockwork,Slow,8,Yes,Yes
+Rock Flower Anemone,Phymanthus crucifer,Anemone,Phymanthidae,Easy,Moderate,Low,Low,20,Sand Bed,Slow,6,Yes,Yes
+Tube Anemone,Cerianthus membranaceus,Anemone,Cerianthidae,Moderate,Low,Low,Low,30,Sand Bed,Slow,12,With Caution,No
+Orange Ricordea Yuma,Ricordea yuma,Corallimorph,Ricordeidae,Easy,Moderate,Low,Low,10,Lower,Moderate,6,Yes,Yes
+Green Hairy Mushroom,Rhodactis indosinensis,Corallimorph,Discosomatidae,Easy,Low,Low,Low,10,Lower,Fast,12,Yes,Yes
+Orange Leptastrea,Leptastrea sp.,SPS,Leptastreidae,Easy,Moderate,Moderate,Low,20,Lower,Slow,12,Yes,Yes
+Jack-O-Lantern Leptoseris,Leptoseris sp.,SPS,Agariciidae,Moderate,Low,Low,Low,20,Lower,Slow,18,Yes,Yes
+Green Psammocora,Psammocora contigua,SPS,Psammocoridae,Moderate,Moderate,Moderate,Low,30,Middle,Moderate,18,Yes,Yes
+Branching Porites,Porites cylindrica,SPS,Poritidae,Moderate,High,High,Low,30,Upper,Moderate,24,Yes,Yes
+Yellow Porites,Porites lutea,SPS,Poritidae,Moderate,High,High,Low,30,Upper,Slow,36,Yes,Yes
+Blue Ridge Coral,Heliopora coerulea,SPS,Helioporidae,Moderate,High,High,Low,50,Upper,Fast,36,Yes,Yes
+Green Slipper Coral,Polyphyllia talpina,LPS,Fungiidae,Moderate,Low,Low,Low,30,Sand Bed,Slow,18,Yes,Yes
+Tongue Coral,Herpolitha limax,LPS,Fungiidae,Moderate,Low,Low,Low,30,Sand Bed,Slow,24,Yes,Yes
+Anchor Coral,Euphyllia paraancora,LPS,Euphylliidae,Moderate,Moderate,Moderate,High,30,Middle,Moderate,24,Yes,Yes
+Branching Hammer Coral,Fimbriaphyllia parancora,LPS,Euphylliidae,Moderate,Moderate,Moderate,High,30,Middle,Moderate,24,Yes,Yes
+Octospawn Coral,Fimbriaphyllia paradivisa,LPS,Euphylliidae,Moderate,Moderate,Moderate,High,30,Middle,Moderate,24,Yes,Yes
+Maze Brain Coral,Platygyra daedalea,LPS,Merulinidae,Moderate,Moderate,Moderate,Moderate,30,Middle,Slow,24,Yes,Yes
+Lobed Brain Coral,Lobophyllia corymbosa,LPS,Lobophylliidae,Moderate,Moderate,Low,Moderate,30,Lower,Slow,18,Yes,Yes
+Symphyllia Brain Coral,Symphyllia valenciennesii,LPS,Lobophylliidae,Moderate,Moderate,Low,Moderate,30,Lower,Slow,18,Yes,Yes
+Pineapple Coral,Blastomussa merleti,LPS,Merulinidae,Easy,Low,Low,Low,20,Lower,Slow,8,Yes,Yes
+Christmas Favia,Favia speciosa,LPS,Merulinidae,Moderate,Moderate,Moderate,Moderate,30,Middle,Slow,18,Yes,Yes
+War Coral,Favites pentagona,LPS,Merulinidae,Moderate,Moderate,Moderate,High,30,Middle,Slow,18,Yes,Yes
+Moon Coral,Favites abdita,LPS,Merulinidae,Moderate,Moderate,Moderate,Moderate,30,Middle,Slow,24,Yes,Yes
+Pagoda Coral,Turbinaria mesenterina,LPS,Dendrophylliidae,Moderate,Moderate,Moderate,Low,30,Middle,Moderate,24,Yes,Yes
+Scroll Coral,Turbinaria ornata,LPS,Dendrophylliidae,Moderate,Moderate,Moderate,Low,30,Middle,Moderate,24,Yes,Yes
+Red Goniopora,Goniopora stokesi,LPS,Poritidae,Moderate,Moderate,Moderate,Low,30,Middle,Moderate,18,Yes,Yes
+Green Goniopora,Goniopora lobata,LPS,Poritidae,Moderate,Moderate,Moderate,Low,30,Middle,Moderate,24,Yes,Yes
+Alveopora Coral,Alveopora japonica,LPS,Acroporidae,Moderate,Moderate,Low,Low,30,Middle,Moderate,12,Yes,Yes
+Flowerpot Coral,Goniopora columna,LPS,Poritidae,Moderate,Moderate,Moderate,Low,30,Middle,Moderate,18,Yes,Yes
+Galaxy Coral,Galaxea fascicularis,LPS,Euphylliidae,Moderate,Moderate,Moderate,High,30,Middle,Moderate,24,Yes,Yes
+Hydnophora Horn Coral,Hydnophora exesa,LPS,Merulinidae,Moderate,High,High,High,50,Upper,Fast,24,Yes,Yes
+Trumpet Coral,Caulastrea echinulata,LPS,Merulinidae,Easy,Moderate,Low,Low,20,Middle,Moderate,12,Yes,Yes
+Candy Apple Micromussa,Micromussa amakusensis,LPS,Lobophylliidae,Moderate,Low,Low,Low,20,Lower,Slow,10,Yes,Yes
+Lobo Coral,Lobophyllia pachysepta,LPS,Lobophylliidae,Moderate,Moderate,Low,Moderate,30,Lower,Slow,18,Yes,Yes
+Button Scolymia,Homophyllia australis,LPS,Lobophylliidae,Moderate,Low,Low,Low,20,Sand Bed,Slow,8,Yes,Yes
+Orange Fungia,Fungia repanda,LPS,Fungiidae,Easy,Moderate,Low,Low,20,Sand Bed,Moderate,10,Yes,Yes
+Cycloseris Plate Coral,Cycloseris cyclolites,LPS,Fungiidae,Moderate,Low,Low,Low,20,Sand Bed,Slow,8,Yes,Yes
+Cup Mushroom Coral,Discosoma nummiforme,Corallimorph,Discosomatidae,Easy,Low,Low,Low,10,Lower,Fast,10,Yes,Yes
+Striped Mushroom Coral,Actinodiscus striata,Corallimorph,Discosomatidae,Easy,Low,Low,Low,10,Lower,Fast,10,Yes,Yes
+Elephant Ear Mushroom,Amplexidiscus fenestrafer,Corallimorph,Discosomatidae,Easy,Low,Low,Moderate,20,Lower,Fast,20,Yes,Yes
+Metallic Green Leather,Sarcophyton elegans,Soft Coral,Alcyoniidae,Easy,Moderate,Moderate,Low,20,Middle,Moderate,24,Yes,Yes
+Cabbage Leather Coral,Sinularia dura,Soft Coral,Alcyoniidae,Easy,Moderate,Moderate,Low,20,Middle,Moderate,24,Yes,Yes
+Tree Leather Coral,Nephthea sp.,Soft Coral,Nephtheidae,Moderate,Moderate,Moderate,Low,20,Middle,Moderate,24,Yes,Yes
+Yellow Fiji Leather,Sarcophyton sp.,Soft Coral,Alcyoniidae,Easy,Moderate,Moderate,Low,20,Middle,Moderate,24,Yes,Yes
+Weeping Willow Toadstool,Sarcophyton sp.,Soft Coral,Alcyoniidae,Easy,Moderate,Moderate,Low,20,Middle,Moderate,24,Yes,Yes
+Japanese Toadstool Leather,Sarcophyton trocheliophorum,Soft Coral,Alcyoniidae,Easy,Moderate,Moderate,Low,20,Middle,Moderate,24,Yes,Yes
+Green Sinularia,Sinularia flexibilis,Soft Coral,Alcyoniidae,Easy,Moderate,Moderate,Low,20,Middle,Moderate,24,Yes,Yes
+Carnation Tree Coral,Stereonephthya sp.,Soft Coral,Nephtheidae,Difficult,Low,Moderate,Low,30,Middle,Moderate,18,Yes,No
+Blue Sympodium,Sympodium sp.,Soft Coral,Xeniidae,Easy,Moderate,Moderate,Low,20,Lower,Fast,12,Yes,Yes
+Clove Polyps,Clavularia viridis,Soft Coral,Clavulariidae,Easy,Moderate,Moderate,Low,10,Any,Fast,24,Yes,Yes
+Blue Clove Polyps,Clavularia sp.,Soft Coral,Clavulariidae,Easy,Moderate,Moderate,Low,10,Any,Fast,24,Yes,Yes
+Yellow Polyps,Parazoanthus gracilis,Soft Coral,Parazoanthidae,Easy,Moderate,Moderate,Low,10,Any,Fast,18,Yes,Yes
+Nuclear Green Palythoa,Palythoa mutuki,Soft Coral,Zoanthidae,Easy,Moderate,Moderate,Moderate,10,Any,Fast,18,Yes,Yes
+Eagle Eye Zoanthid,Zoanthus gigantus,Soft Coral,Zoanthidae,Easy,Moderate,Moderate,Low,10,Any,Fast,12,Yes,Yes
+Radioactive Dragon Eye Zoanthid,Zoanthus vietnamensis,Soft Coral,Zoanthidae,Easy,Moderate,Moderate,Low,10,Any,Fast,12,Yes,Yes
+Armor of God Zoanthid,Zoanthus sansibaricus,Soft Coral,Zoanthidae,Easy,Moderate,Moderate,Low,10,Any,Fast,12,Yes,Yes
+Sunny D Zoanthid,Zoanthus kuroshio,Soft Coral,Zoanthidae,Easy,Moderate,Moderate,Low,10,Any,Fast,12,Yes,Yes
+King Midas Zoanthid,Zoanthus sp.,Soft Coral,Zoanthidae,Easy,Moderate,Moderate,Low,10,Any,Fast,12,Yes,Yes
+Green Kenya Tree,Capnella imbricata,Soft Coral,Nephtheidae,Easy,Moderate,Moderate,Low,20,Middle,Fast,18,Yes,Yes
+Purple Cespitularia,Cespitularia sp.,Soft Coral,Xeniidae,Moderate,Moderate,Moderate,Low,20,Middle,Moderate,18,Yes,Yes
+Blue Xenia,Xenia umbellata,Soft Coral,Xeniidae,Easy,Moderate,Moderate,Low,10,Middle,Fast,24,Yes,Yes
+Pom Pom Xenia,Xenia sp.,Soft Coral,Xeniidae,Easy,Moderate,Moderate,Low,10,Middle,Fast,24,Yes,Yes
+Anthelia Coral,Anthelia glauca,Soft Coral,Xeniidae,Easy,Moderate,Moderate,Low,10,Any,Fast,24,Yes,Yes
+Green Nephthea,Nephthea sp.,Soft Coral,Nephtheidae,Moderate,Moderate,Moderate,Low,20,Middle,Moderate,24,Yes,Yes
+Broccoli Leather Coral,Sinularia brassica,Soft Coral,Alcyoniidae,Easy,Moderate,Moderate,Low,20,Middle,Moderate,24,Yes,Yes
+Jack-O-Lantern Leptoseris,Leptoseris hawaiiensis,SPS,Agariciidae,Moderate,Low,Low,Low,20,Lower,Slow,18,Yes,Yes
+Green Pavona,Pavona decussata,SPS,Agariciidae,Moderate,Moderate,Moderate,Low,30,Middle,Moderate,24,Yes,Yes
+Cactus Coral,Pavona cactus,SPS,Agariciidae,Moderate,Moderate,Moderate,Low,30,Middle,Moderate,24,Yes,Yes
+Scroll Pavona,Pavona varians,SPS,Agariciidae,Moderate,Moderate,Moderate,Low,30,Middle,Moderate,18,Yes,Yes
+Green Stylocoeniella,Stylocoeniella armata,SPS,Stylocoeniellidae,Moderate,High,High,Low,30,Upper,Moderate,18,Yes,Yes
+Forest Fire Digitata,Montipora digitata,SPS,Acroporidae,Moderate,High,High,Low,30,Upper,Fast,24,Yes,Yes
+Sunset Montipora,Montipora monasteriata,SPS,Acroporidae,Moderate,High,High,Low,30,Upper,Moderate,18,Yes,Yes
+Rainbow Montipora,Montipora danae,SPS,Acroporidae,Moderate,High,High,Low,30,Upper,Moderate,18,Yes,Yes
+Purple Stylophora,Stylophora pistillata,SPS,Pocilloporidae,Moderate,High,High,Low,30,Upper,Moderate,18,Yes,Yes
+Pink Pocillopora,Pocillopora verrucosa,SPS,Pocilloporidae,Moderate,High,High,Low,30,Upper,Fast,18,Yes,Yes
+Bird of Paradise Birdsnest,Seriatopora caliendrum,SPS,Pocilloporidae,Moderate,High,High,Low,30,Upper,Fast,18,Yes,Yes
+Green Birdsnest,Seriatopora hystrix,SPS,Pocilloporidae,Moderate,High,High,Low,30,Upper,Fast,18,Yes,Yes
+Blue Millepora Acropora,Acropora millepora,SPS,Acroporidae,Difficult,High,High,Low,50,Upper,Fast,24,Yes,Yes
+Strawberry Shortcake Acropora,Acropora microclados,SPS,Acroporidae,Difficult,High,High,Low,50,Upper,Moderate,24,Yes,Yes
+Walt Disney Acropora,Acropora tenuis,SPS,Acroporidae,Difficult,High,High,Low,50,Upper,Moderate,24,Yes,Yes
+Fox Flame Acropora,Acropora sp.,SPS,Acroporidae,Difficult,High,High,Low,50,Upper,Moderate,24,Yes,Yes
+ORA Pearlberry Acropora,Acropora desalwii,SPS,Acroporidae,Difficult,High,High,Low,50,Upper,Moderate,24,Yes,Yes
+Green Hydnophora,Hydnophora rigida,SPS,Merulinidae,Moderate,High,High,High,50,Upper,Fast,24,Yes,Yes
+Branching Hydnophora,Hydnophora exesa,SPS,Merulinidae,Moderate,High,High,High,50,Upper,Fast,24,Yes,Yes
+Blue Ridge Hydrocoral,Heliopora coerulea,SPS,Helioporidae,Moderate,High,High,Low,50,Upper,Fast,36,Yes,Yes
+Miami Hurricane Chalice,Echinophyllia sp.,LPS,Lobophylliidae,Moderate,Low,Low,Moderate,30,Lower,Moderate,18,Yes,Yes
+Watermelon Chalice,Mycedium elephantotus,LPS,Lobophylliidae,Moderate,Low,Low,Moderate,30,Lower,Moderate,18,Yes,Yes
+Mummy Eye Chalice,Echinophyllia aspera,LPS,Lobophylliidae,Moderate,Low,Low,Moderate,30,Lower,Moderate,18,Yes,Yes
+Purple Cyphastrea,Cyphastrea japonica,SPS,Merulinidae,Easy,Moderate,Moderate,Low,20,Lower,Slow,12,Yes,Yes
+Jingle Bells Cyphastrea,Cyphastrea decadia,SPS,Merulinidae,Easy,Moderate,Moderate,Low,20,Lower,Slow,12,Yes,Yes
+Branching Psammocora,Psammocora digitata,SPS,Psammocoridae,Moderate,Moderate,Moderate,Low,30,Middle,Moderate,18,Yes,Yes
+Yellow Scroll Coral,Turbinaria reniformis,LPS,Dendrophylliidae,Moderate,Moderate,Moderate,Low,30,Middle,Moderate,24,Yes,Yes
+Green Scroll Coral,Turbinaria mesenterina,LPS,Dendrophylliidae,Moderate,Moderate,Moderate,Low,30,Middle,Moderate,24,Yes,Yes
+Orange Lobophyllia,Lobophyllia hemprichii,LPS,Lobophylliidae,Moderate,Moderate,Low,Moderate,30,Lower,Slow,18,Yes,Yes
+Aussie Scolymia,Homophyllia australis,LPS,Lobophylliidae,Moderate,Low,Low,Low,20,Sand Bed,Slow,8,Yes,Yes
+Bleeding Apple Scolymia,Homophyllia australis,LPS,Lobophylliidae,Moderate,Low,Low,Low,20,Sand Bed,Slow,8,Yes,Yes
+Rainbow Trachyphyllia,Trachyphyllia geoffroyi,LPS,Merulinidae,Moderate,Low,Low,Low,30,Sand Bed,Slow,12,Yes,Yes
+Dragon Soul Favia,Favia speciosa,LPS,Merulinidae,Moderate,Moderate,Moderate,Moderate,30,Middle,Slow,18,Yes,Yes
+Golden Eye Favites,Favites pentagona,LPS,Merulinidae,Moderate,Moderate,Moderate,Moderate,30,Middle,Slow,18,Yes,Yes
+Ultra Acan,Micromussa lordhowensis,LPS,Lobophylliidae,Moderate,Low,Low,Low,20,Lower,Moderate,12,Yes,Yes
+Rainbow Acan,Micromussa lordhowensis,LPS,Lobophylliidae,Moderate,Low,Low,Low,20,Lower,Moderate,12,Yes,Yes
+Holy Grail Torch,Fimbriaphyllia glabrescens,LPS,Euphylliidae,Moderate,Moderate,Moderate,High,30,Middle,Moderate,24,Yes,Yes
+Gold Hammer Coral,Fimbriaphyllia ancora,LPS,Euphylliidae,Moderate,Moderate,Moderate,High,30,Middle,Moderate,24,Yes,Yes
+Dragon Soul Torch,Fimbriaphyllia glabrescens,LPS,Euphylliidae,Moderate,Moderate,Moderate,High,30,Middle,Moderate,24,Yes,Yes
+Aussie Gold Torch,Fimbriaphyllia glabrescens,LPS,Euphylliidae,Moderate,Moderate,Moderate,High,30,Middle,Moderate,24,Yes,Yes
+Hellfire Torch,Fimbriaphyllia glabrescens,LPS,Euphylliidae,Moderate,Moderate,Moderate,High,30,Middle,Moderate,24,Yes,Yes
+Green Branching Frogspawn,Fimbriaphyllia paradivisa,LPS,Euphylliidae,Moderate,Moderate,Moderate,High,30,Middle,Moderate,24,Yes,Yes
+Gold Frogspawn,Fimbriaphyllia divisa,LPS,Euphylliidae,Moderate,Moderate,Moderate,High,30,Middle,Moderate,24,Yes,Yes
+Orange Branching Hammer,Fimbriaphyllia parancora,LPS,Euphylliidae,Moderate,Moderate,Moderate,High,30,Middle,Moderate,24,Yes,Yes
+Bi-Color Hammer Coral,Fimbriaphyllia ancora,LPS,Euphylliidae,Moderate,Moderate,Moderate,High,30,Middle,Moderate,24,Yes,Yes
+Neon Green Candy Cane,Caulastrea furcata,LPS,Merulinidae,Easy,Moderate,Low,Low,20,Middle,Moderate,12,Yes,Yes
+Orange Crush Duncan,Duncanopsammia axifuga,LPS,Dendrophylliidae,Easy,Moderate,Moderate,Low,20,Middle,Moderate,18,Yes,Yes
+Green Duncan Coral,Duncanopsammia axifuga,LPS,Dendrophylliidae,Easy,Moderate,Moderate,Low,20,Middle,Moderate,18,Yes,Yes
+Aussie Elegance Coral,Catalaphyllia jardinei,LPS,Euphylliidae,Moderate,Moderate,Low,Moderate,50,Sand Bed,Moderate,24,Yes,Yes
+Green Elegance Coral,Catalaphyllia jardinei,LPS,Euphylliidae,Moderate,Moderate,Low,Moderate,50,Sand Bed,Moderate,24,Yes,Yes
+Orange Plate Coral,Fungia fungites,LPS,Fungiidae,Easy,Moderate,Low,Low,20,Sand Bed,Moderate,10,Yes,Yes
+Purple Plate Coral,Fungia scutaria,LPS,Fungiidae,Easy,Moderate,Low,Low,20,Sand Bed,Moderate,10,Yes,Yes
+Neon Green Toadstool,Sarcophyton sp.,Soft Coral,Alcyoniidae,Easy,Moderate,Moderate,Low,20,Middle,Moderate,24,Yes,Yes
+Long Polyp Toadstool,Sarcophyton ehrenbergi,Soft Coral,Alcyoniidae,Easy,Moderate,Moderate,Low,20,Middle,Moderate,24,Yes,Yes
+Finger Sinularia,Sinularia flexibilis,Soft Coral,Alcyoniidae,Easy,Moderate,Moderate,Low,20,Middle,Moderate,24,Yes,Yes
+Green Finger Leather,Sinularia polydactyla,Soft Coral,Alcyoniidae,Easy,Moderate,Moderate,Low,20,Middle,Moderate,24,Yes,Yes
+Purple Tip Clove Polyps,Clavularia sp.,Soft Coral,Clavulariidae,Easy,Moderate,Moderate,Low,10,Any,Fast,24,Yes,Yes
+Radioactive Green Star Polyps,Pachyclavularia violacea,Soft Coral,Briareidae,Easy,Moderate,Moderate,Moderate,10,Any,Fast,24,Yes,Yes
+Green Bubble Coral,Plerogyra sinuosa,LPS,Euphylliidae,Moderate,Low,Low,Moderate,30,Lower,Moderate,18,Yes,Yes
+Pearl Bubble Coral,Physogyra lichtensteini,LPS,Euphylliidae,Moderate,Low,Low,Moderate,30,Lower,Moderate,18,Yes,Yes
+Grape Coral,Euphyllia cristata,LPS,Euphylliidae,Moderate,Moderate,Low,High,30,Middle,Moderate,18,Yes,Yes
+Fox Flame Bubble Coral,Plerogyra simplex,LPS,Euphylliidae,Moderate,Low,Low,Moderate,30,Lower,Moderate,12,Yes,Yes
+Orange Blastomussa,Blastomussa wellsi,LPS,Merulinidae,Moderate,Low,Low,Low,20,Lower,Slow,10,Yes,Yes
+Red Blastomussa,Blastomussa merleti,LPS,Merulinidae,Easy,Low,Low,Low,20,Lower,Slow,8,Yes,Yes
+Ultra Blastomussa,Blastomussa wellsi,LPS,Merulinidae,Moderate,Low,Low,Low,20,Lower,Slow,10,Yes,Yes
+Aussie Micromussa,Micromussa lordhowensis,LPS,Lobophylliidae,Moderate,Low,Low,Low,20,Lower,Moderate,12,Yes,Yes
+Rainbow Micromussa,Micromussa amakusensis,LPS,Lobophylliidae,Moderate,Low,Low,Low,20,Lower,Slow,10,Yes,Yes
+Orange Micromussa,Micromussa lordhowensis,LPS,Lobophylliidae,Moderate,Low,Low,Low,20,Lower,Moderate,12,Yes,Yes
+Maze Favia,Favia favus,LPS,Merulinidae,Moderate,Moderate,Moderate,Moderate,30,Middle,Slow,24,Yes,Yes
+Closed Brain Coral,Favia rotumana,LPS,Merulinidae,Moderate,Moderate,Moderate,Moderate,30,Middle,Slow,18,Yes,Yes
+Prism Favia,Favia speciosa,LPS,Merulinidae,Moderate,Moderate,Moderate,Moderate,30,Middle,Slow,18,Yes,Yes
+Pineapple Brain Coral,Favites complanata,LPS,Merulinidae,Moderate,Moderate,Moderate,Moderate,30,Middle,Slow,24,Yes,Yes
+Star Coral,Diploastrea heliopora,LPS,Diploastreidae,Moderate,Moderate,Moderate,Low,30,Middle,Slow,24,Yes,Yes
+Lettuce Coral,Agaricia agaricites,SPS,Agariciidae,Moderate,Moderate,Moderate,Low,30,Middle,Moderate,24,Yes,Yes
+Elephant Skin Coral,Pachyseris rugosa,SPS,Agariciidae,Moderate,Moderate,Moderate,Low,30,Middle,Slow,24,Yes,Yes
+Branching Acropora,Acropora robusta,SPS,Acroporidae,Difficult,High,High,Low,50,Upper,Fast,36,Yes,Yes
+Deepwater Acropora,Acropora lokani,SPS,Acroporidae,Difficult,Moderate,High,Low,50,Upper,Moderate,24,Yes,Yes
+Blue Tort Acropora,Acropora tortuosa,SPS,Acroporidae,Difficult,High,High,Low,50,Upper,Moderate,24,Yes,Yes
+Purple Monster Acropora,Acropora valida,SPS,Acroporidae,Difficult,High,High,Low,50,Upper,Moderate,24,Yes,Yes
+Tri-Color Acropora,Acropora valida,SPS,Acroporidae,Difficult,High,High,Low,50,Upper,Moderate,24,Yes,Yes
+Yellow Tenuis Acropora,Acropora tenuis,SPS,Acroporidae,Difficult,High,High,Low,50,Upper,Moderate,24,Yes,Yes
+Hawkins Blue Echinata,Acropora echinata,SPS,Acroporidae,Difficult,High,High,Low,50,Upper,Moderate,18,Yes,Yes
+Purple Bonsai Acropora,Acropora valida,SPS,Acroporidae,Difficult,High,High,Low,50,Upper,Moderate,24,Yes,Yes
+Green Pocillopora,Pocillopora damicornis,SPS,Pocilloporidae,Moderate,High,High,Low,30,Upper,Fast,18,Yes,Yes
+Yellow Pocillopora,Pocillopora verrucosa,SPS,Pocilloporidae,Moderate,High,High,Low,30,Upper,Fast,18,Yes,Yes
+Pink Stylocoeniella,Stylocoeniella armata,SPS,Stylocoeniellidae,Moderate,High,High,Low,30,Upper,Moderate,18,Yes,Yes
+Green Leptoseris,Leptoseris scabra,SPS,Agariciidae,Moderate,Low,Low,Low,20,Lower,Slow,18,Yes,Yes
+Orange Leptoseris,Leptoseris yabei,SPS,Agariciidae,Moderate,Low,Low,Low,20,Lower,Slow,18,Yes,Yes
+Blue Chalice,Oxypora lacera,LPS,Lobophylliidae,Moderate,Low,Low,Moderate,30,Lower,Slow,18,Yes,Yes
+Space Invader Pectinia,Pectinia paeonia,LPS,Pectiniidae,Moderate,Low,Moderate,High,30,Lower,Moderate,18,Yes,Yes
+Green Pectinia,Pectinia lactuca,LPS,Pectiniidae,Moderate,Low,Moderate,High,30,Lower,Moderate,18,Yes,Yes
+Branching Pectinia,Pectinia alcicornis,LPS,Pectiniidae,Moderate,Low,Moderate,High,30,Lower,Moderate,18,Yes,Yes
+Orange Oxypora,Oxypora glabra,LPS,Lobophylliidae,Moderate,Low,Low,Moderate,30,Lower,Slow,18,Yes,Yes
+Neon Green Cynarina,Cynarina lacrymalis,LPS,Lobophylliidae,Moderate,Low,Low,Low,30,Sand Bed,Slow,12,Yes,Yes
+Button Coral,Cynarina lacrymalis,LPS,Lobophylliidae,Moderate,Low,Low,Low,30,Sand Bed,Slow,12,Yes,Yes
+Aussie Cynarina,Cynarina deshayesiana,LPS,Lobophylliidae,Moderate,Low,Low,Low,30,Sand Bed,Slow,12,Yes,Yes
+Orange Cynarina,Cynarina lacrymalis,LPS,Lobophylliidae,Moderate,Low,Low,Low,30,Sand Bed,Slow,12,Yes,Yes
+Beaded Sea Anemone,Heteractis aurora,Anemone,Stichodactylidae,Moderate,Moderate,Moderate,Low,75,Sand Bed,Moderate,12,Yes,Yes
+Merten's Carpet Anemone,Stichodactyla mertensii,Anemone,Stichodactylidae,Difficult,High,Moderate,Low,180,Sand Bed,Slow,48,Yes,Yes
+Gigantic Carpet Anemone,Stichodactyla gigantea,Anemone,Stichodactylidae,Difficult,High,High,Low,180,Sand Bed,Slow,36,Yes,Yes
+Condylactis Anemone,Condylactis gigantea,Anemone,Actiniidae,Moderate,Moderate,Moderate,Moderate,50,Sand Bed,Moderate,20,With Caution,Yes
+Curlicue Anemone,Bartholomea annulata,Anemone,Aiptasiidae,Easy,Moderate,Moderate,Low,30,Rockwork,Moderate,8,With Caution,Yes
+Rose Bubble Tip Anemone,Entacmaea quadricolor,Anemone,Actiniidae,Moderate,Moderate,Moderate,Low,30,Rockwork,Moderate,12,Yes,Yes
+Rainbow Bubble Tip Anemone,Entacmaea quadricolor,Anemone,Actiniidae,Moderate,Moderate,Moderate,Low,30,Rockwork,Moderate,12,Yes,Yes
+Colorado Sunburst Bubble Tip Anemone,Entacmaea quadricolor,Anemone,Actiniidae,Moderate,Moderate,Moderate,Low,30,Rockwork,Moderate,12,Yes,Yes
+Black Widow Bubble Tip Anemone,Entacmaea quadricolor,Anemone,Actiniidae,Moderate,Moderate,Moderate,Low,30,Rockwork,Moderate,12,Yes,Yes
+Inferno Bubble Tip Anemone,Entacmaea quadricolor,Anemone,Actiniidae,Moderate,Moderate,Moderate,Low,30,Rockwork,Moderate,12,Yes,Yes
+Rainbow Rock Flower Anemone,Phymanthus crucifer,Anemone,Phymanthidae,Easy,Moderate,Low,Low,20,Sand Bed,Slow,6,Yes,Yes
+Ultra Rock Flower Anemone,Phymanthus crucifer,Anemone,Phymanthidae,Easy,Moderate,Low,Low,20,Sand Bed,Slow,6,Yes,Yes
+Electric Rock Flower Anemone,Phymanthus crucifer,Anemone,Phymanthidae,Easy,Moderate,Low,Low,20,Sand Bed,Slow,6,Yes,Yes
+Purple Tip Condylactis,Condylactis gigantea,Anemone,Actiniidae,Moderate,Moderate,Moderate,Moderate,50,Sand Bed,Moderate,20,With Caution,Yes
+Giant Caribbean Anemone,Condylactis gigantea,Anemone,Actiniidae,Moderate,Moderate,Moderate,Moderate,50,Sand Bed,Moderate,20,With Caution,Yes
+Curly Tentacle Anemone,Macrodactyla doreensis,Anemone,Actiniidae,Moderate,Moderate,Moderate,Low,50,Sand Bed,Moderate,20,Yes,Yes
+Green Bubble Tip Anemone,Entacmaea quadricolor,Anemone,Actiniidae,Moderate,Moderate,Moderate,Low,30,Rockwork,Moderate,12,Yes,Yes
+Orange Bubble Tip Anemone,Entacmaea quadricolor,Anemone,Actiniidae,Moderate,Moderate,Moderate,Low,30,Rockwork,Moderate,12,Yes,Yes
+Rainbow Mini Carpet Anemone,Stichodactyla tapetum,Anemone,Stichodactylidae,Moderate,Moderate,Moderate,Low,20,Rockwork,Slow,8,Yes,Yes
+Ultra Mini Carpet Anemone,Stichodactyla tapetum,Anemone,Stichodactylidae,Moderate,Moderate,Moderate,Low,20,Rockwork,Slow,8,Yes,Yes

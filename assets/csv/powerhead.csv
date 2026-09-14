@@ -1,0 +1,81 @@
+Product Name,Manufacturer,Max Flow Rate (GPH),Power Consumption (W),Controllable,Control Method,Recommended Tank Size (gal),Warranty (Years)
+MP10QD,Ecotech Marine,1575,18,TRUE,App,10,1
+MP10mQD,Ecotech Marine,1575,18,TRUE,App,10,1
+MP40QD,Ecotech Marine,4500,38,TRUE,App,50,1
+MP40mQD,Ecotech Marine,4500,38,TRUE,App,50,1
+MP60QD,Ecotech Marine,7500,60,TRUE,App,120,1
+Nero 3,Aqua Illumination,2000,20,TRUE,App,20,1
+Nero 5,Aqua Illumination,3000,30,TRUE,App,40,1
+Nero 7,Aqua Illumination,4000,40,TRUE,App,75,1
+Orbit 2,Aqua Illumination,2200,20,TRUE,App,20,1
+Orbit 4,Aqua Illumination,4000,40,TRUE,App,75,1
+Tunze Turbelle Nanostream 6015,Tunze,475,4,FALSE,Manual,5,2
+Tunze Turbelle Nanostream 6020,Tunze,660,5,FALSE,Manual,10,2
+Tunze Turbelle Nanostream 6040,Tunze,1200,13,TRUE,Controller,20,2
+Tunze Turbelle Nanostream 6055,Tunze,1450,18,TRUE,Controller,30,2
+Tunze Turbelle Stream 6095,Tunze,2500,21,TRUE,Controller,50,2
+Tunze Turbelle Stream 6105,Tunze,3400,28,TRUE,Controller,75,2
+Tunze Turbelle Stream 6155,Tunze,4000,52,TRUE,Controller,100,2
+Tunze Turbelle Stream 6255,Tunze,5800,58,TRUE,Controller,150,2
+Maxspect Gyre XF330,Maxspect,2350,35,TRUE,Controller,30,1
+Maxspect Gyre XF350,Maxspect,5300,60,TRUE,Controller,75,1
+Maxspect Gyre XF380,Maxspect,6100,65,TRUE,Controller,120,1
+Maxspect Gyre XF390,Maxspect,9000,95,TRUE,Controller,180,1
+Maxspect Jump MJ-GF2K,Maxspect,530,8,TRUE,App,10,1
+Maxspect Jump MJ-GF4K,Maxspect,1060,15,TRUE,App,20,1
+Maxspect Jump MJ-GF6K,Maxspect,1590,20,TRUE,App,40,1
+ReefWave 25,Red Sea,1980,25,TRUE,App,25,2
+ReefWave 45,Red Sea,3960,45,TRUE,App,75,2
+ReefWave 60,Red Sea,5280,55,TRUE,App,120,2
+Jebao SLW-10,Jebao,1050,10,TRUE,Controller,20,1
+Jebao SLW-20,Jebao,2640,20,TRUE,Controller,50,1
+Jebao SLW-30,Jebao,3960,30,TRUE,Controller,75,1
+Jebao SCP-70M,Jebao,1849,12,TRUE,Controller,30,1
+Jebao SCP-90M,Jebao,2905,23,TRUE,Controller,60,1
+Jebao SCP-120M,Jebao,4227,35,TRUE,Controller,100,1
+Jebao OW-10,Jebao,1050,8,TRUE,Controller,20,1
+Jebao OW-25,Jebao,2110,16,TRUE,Controller,40,1
+Jebao SOW-8,Jebao,2110,8,TRUE,Controller,40,1
+Jebao SOW-15,Jebao,3960,15,TRUE,Controller,75,1
+Jebao SOW-20,Jebao,5280,20,TRUE,Controller,120,1
+Jebao MOW-9,Jebao,2375,12,TRUE,Controller,50,1
+Jebao MOW-16,Jebao,4227,20,TRUE,Controller,100,1
+Jebao MOW-28,Jebao,7396,35,TRUE,Controller,180,1
+Hydros WaveEngine LE,CoralVue,0,0,TRUE,App,0,2
+Hydros Kraken + Pump Bundle,CoralVue,4000,40,TRUE,App,75,2
+Octo Pulse 2,Reef Octopus,1600,12,TRUE,Controller,30,2
+Octo Pulse 4,Reef Octopus,2400,20,TRUE,Controller,50,2
+Octo Pulse 8,Reef Octopus,4000,30,TRUE,Controller,100,2
+Octo Pulse 10,Reef Octopus,4500,35,TRUE,Controller,120,2
+Octo Pulse 15,Reef Octopus,6000,45,TRUE,Controller,180,2
+Sicce Voyager Nano 1000,Sicce,264,3,FALSE,Manual,5,3
+Sicce Voyager Nano 2000,Sicce,528,5,FALSE,Manual,10,3
+Sicce Voyager 2,Sicce,792,6,FALSE,Manual,20,3
+Sicce Voyager 3,Sicce,1189,8,FALSE,Manual,30,3
+Sicce Voyager 4,Sicce,1585,10,FALSE,Manual,40,3
+Sicce Voyager HP 6,Sicce,2377,14,FALSE,Manual,60,3
+Sicce Voyager HP 8,Sicce,3169,18,FALSE,Manual,90,3
+Sicce XStream SDC,Sicce,2250,20,TRUE,App,40,5
+Sicce XStream-E 2500,Sicce,660,4,FALSE,Manual,10,3
+Sicce XStream-E 3500,Sicce,925,6,FALSE,Manual,20,3
+Sicce XStream-E 5000,Sicce,1320,8,FALSE,Manual,30,3
+AI Orbit 2K,Aqua Illumination,2000,18,TRUE,App,20,1
+AI Orbit 4K,Aqua Illumination,4000,35,TRUE,App,75,1
+VorTech MP20QD,Ecotech Marine,2000,20,TRUE,App,30,1
+VorTech MP70QD,Ecotech Marine,9000,75,TRUE,App,180,1
+Gyre Cloud Edition XF330,Maxspect,2350,35,TRUE,App,30,1
+Gyre Cloud Edition XF350,Maxspect,5300,60,TRUE,App,75,1
+Gyre Cloud Edition XF380,Maxspect,6100,65,TRUE,App,120,1
+Tunze Turbelle e-jet 1605,Tunze,1450,18,TRUE,Controller,30,2
+Tunze Turbelle e-jet 3205,Tunze,2900,28,TRUE,Controller,60,2
+Tunze Turbelle e-jet 6405,Tunze,5800,58,TRUE,Controller,150,2
+Aqua Gadget MightyJet Flow 538,Innovative Marine,538,8,TRUE,Controller,10,2
+Aqua Gadget MightyJet Flow 1070,Innovative Marine,1070,15,TRUE,Controller,20,2
+Aqua Gadget MightyJet Flow 1600,Innovative Marine,1600,22,TRUE,Controller,40,2
+Current USA eFlux 660,Current USA,660,8,TRUE,Controller,10,1
+Current USA eFlux 1050,Current USA,12,12,TRUE,Controller,20,1
+Current USA eFlux 2100,Current USA,2100,20,TRUE,Controller,50,1
+Current USA eFlux 3170,Current USA,3170,30,TRUE,Controller,75,1
+Hygger Mini Wave Pump 1600,Hygger,1600,12,TRUE,Controller,30,1
+Hygger Mini Wave Pump 3200,Hygger,3200,20,TRUE,Controller,60,1
+Hygger Cross Flow Generator,Hygger,4200,28,TRUE,Controller,100,1

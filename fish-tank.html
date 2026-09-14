@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Dave's Website</title>
+  <title>Fish Tank — Dave's Website</title>
   <link rel="stylesheet" href="css/style.css">
   <script>
     // Set theme before first paint to avoid a flash of the wrong colors.
@@ -16,24 +16,27 @@
   <header>
     <button id="theme-toggle" aria-label="Toggle dark/light mode">🌙</button>
     <nav>
-      <a href="index.html" class="active">Home</a>
-      <a href="fish-tank.html">Fish Tank</a>
+      <a href="index.html">Home</a>
+      <a href="fish-tank.html" class="active">Fish Tank</a>
     </nav>
-    <h1>Hey, I'm Dave 👋</h1>
-    <p>This is my first website — built from scratch.</p>
+    <h1>🐠 Fish Tank</h1>
+    <p>A little tank living entirely in CSS.</p>
   </header>
 
   <main>
-    <section id="about">
-      <h2>About</h2>
-      <p>This is a small site I'm building to learn how the web works: HTML for structure, CSS for style, and JavaScript for interactivity.</p>
-    </section>
-
-    <section id="counter-demo">
-      <h2>Try it out</h2>
-      <p>Click count: <span id="count">0</span></p>
-      <button id="count-btn">Click me</button>
-    </section>
+    <div class="tank">
+      <div class="fish fish-1">🐟</div>
+      <div class="fish fish-2">🐠</div>
+      <div class="fish fish-3">🐡</div>
+      <div class="fish fish-4">🐟</div>
+      <div class="bubble bubble-1"></div>
+      <div class="bubble bubble-2"></div>
+      <div class="bubble bubble-3"></div>
+      <div class="bubble bubble-4"></div>
+      <div class="seaweed seaweed-1"></div>
+      <div class="seaweed seaweed-2"></div>
+      <div class="seaweed seaweed-3"></div>
+    </div>
   </main>
 
   <footer>

@@ -3,6 +3,15 @@
   --fg: #eaeaea;
   --accent: #5eb1ff;
   --muted: #9aa0a6;
+  --border: #2a2d34;
+}
+
+:root[data-theme="light"] {
+  --bg: #ffffff;
+  --fg: #1a1a1a;
+  --accent: #1d6fd6;
+  --muted: #5b6168;
+  --border: #e1e4e8;
 }
 
 * {
@@ -15,6 +24,46 @@ body {
   background: var(--bg);
   color: var(--fg);
   line-height: 1.6;
+  transition: background 0.2s, color 0.2s;
+}
+
+header {
+  position: relative;
+}
+
+#theme-toggle {
+  position: absolute;
+  top: 2rem;
+  right: 1.5rem;
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  width: 2.5rem;
+  height: 2.5rem;
+  font-size: 1.1rem;
+  padding: 0;
+  color: var(--fg);
+}
+
+#theme-toggle:hover {
+  opacity: 0.8;
+}
+
+nav {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+nav a {
+  color: var(--muted);
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+nav a:hover,
+nav a.active {
+  color: var(--accent);
 }
 
 header, main, footer {
@@ -36,7 +85,7 @@ section {
 }
 
 h2 {
-  border-bottom: 1px solid #2a2d34;
+  border-bottom: 1px solid var(--border);
   padding-bottom: 0.4rem;
 }
 
@@ -57,5 +106,130 @@ button:hover {
 footer {
   color: var(--muted);
   font-size: 0.9rem;
-  border-top: 1px solid #2a2d34;
+  border-top: 1px solid var(--border);
+}
+
+.tank {
+  position: relative;
+  width: 100%;
+  height: 400px;
+  overflow: hidden;
+  border-radius: 10px;
+  background: linear-gradient(to bottom, #1a4d7a, #0a2540);
+  border: 4px solid #5c3a1e;
+}
+
+.fish {
+  position: absolute;
+  font-size: 2rem;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+.fish-1 {
+  top: 20%;
+  animation-name: swim-right;
+  animation-duration: 9s;
+}
+
+.fish-2 {
+  top: 45%;
+  animation-name: swim-left;
+  animation-duration: 12s;
+}
+
+.fish-3 {
+  top: 65%;
+  animation-name: swim-right;
+  animation-duration: 15s;
+  animation-delay: -4s;
+}
+
+.fish-4 {
+  top: 30%;
+  animation-name: swim-left;
+  animation-duration: 7s;
+  animation-delay: -2s;
+}
+
+@keyframes swim-right {
+  0% { left: -10%; transform: scaleX(-1); }
+  49% { transform: scaleX(-1); }
+  50% { left: 105%; transform: scaleX(1); }
+  99% { transform: scaleX(1); }
+  100% { left: -10%; transform: scaleX(-1); }
+}
+
+@keyframes swim-left {
+  0% { left: 105%; transform: scaleX(1); }
+  49% { transform: scaleX(1); }
+  50% { left: -10%; transform: scaleX(-1); }
+  99% { transform: scaleX(-1); }
+  100% { left: 105%; transform: scaleX(1); }
+}
+
+.bubble {
+  position: absolute;
+  bottom: -20px;
+  width: 10px;
+  height: 10px;
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 50%;
+  animation: rise linear infinite;
+}
+
+.bubble-1 { left: 20%; width: 8px; height: 8px; animation-duration: 6s; }
+.bubble-2 { left: 45%; width: 12px; height: 12px; animation-duration: 8s; animation-delay: 1s; }
+.bubble-3 { left: 70%; width: 6px; height: 6px; animation-duration: 5s; animation-delay: 2.5s; }
+.bubble-4 { left: 85%; width: 10px; height: 10px; animation-duration: 7s; animation-delay: 0.5s; }
+
+@keyframes rise {
+  0% { bottom: -20px; opacity: 0.8; }
+  90% { opacity: 0.6; }
+  100% { bottom: 420px; opacity: 0; }
+}
+
+.seaweed {
+  position: absolute;
+  bottom: 0;
+  width: 16px;
+  height: 80px;
+  background: #2e7d32;
+  border-radius: 40px 40px 0 0;
+  transform-origin: bottom center;
+  animation: sway 3s ease-in-out infinite;
+}
+
+.seaweed-1 { left: 10%; height: 70px; animation-duration: 2.6s; }
+.seaweed-2 { left: 50%; height: 90px; animation-duration: 3.4s; animation-delay: 0.5s; }
+.seaweed-3 { left: 80%; height: 60px; animation-duration: 2.9s; animation-delay: 1s; }
+
+@keyframes sway {
+  0%, 100% { transform: rotate(-8deg); }
+  50% { transform: rotate(8deg); }
+}
+
+#flash-overlay {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #ffffff;
+  color: #111;
+  font-size: 3rem;
+  font-weight: bold;
+  pointer-events: none;
+  opacity: 0;
+  z-index: 9999;
+}
+
+#flash-overlay.flash {
+  animation: eye-flash 0.5s ease-out;
+}
+
+@keyframes eye-flash {
+  0% { opacity: 0; }
+  15% { opacity: 1; }
+  100% { opacity: 0; }
 }
